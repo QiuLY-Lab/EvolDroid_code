@@ -1,3 +1,6 @@
+# 参考TGN代码，TGN README如下：
+
+
 # TGN: Temporal Graph Networks [[arXiv](https://arxiv.org/abs/2006.10637), [YouTube](https://www.youtube.com/watch?v=W1GvX2ZcUmY), [Blog Post](https://towardsdatascience.com/temporal-graph-networks-ab8f327f2efe)] 
 
 Dynamic Graph             |  TGN	
